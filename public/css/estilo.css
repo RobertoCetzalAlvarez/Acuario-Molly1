@@ -1,0 +1,15 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+.cuadrado {
+width: 300px;
+height: 200px;
+background-color: wheat;
+position: fixed;
+}
